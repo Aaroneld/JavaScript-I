@@ -107,7 +107,8 @@ inventory.forEach(function (element) {
         BMWAndAudi.push(element); 
     }
 }); 
-console.log(BMWAndAudi);
+
+console.log(JSON.stringify(BMWAndAudi))
 
 
 
