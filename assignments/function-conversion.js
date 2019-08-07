@@ -13,7 +13,7 @@ myFunction();
 // };
 // anotherFunction("Example");
 
-var anotherFunction = (param) =>{ return param;}
+var anotherFunction = (param) => { return param;}
 console.log(anotherFunction("Example"));
 
 // let add = function (param1, param2) {
